@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\EFManyToMany - Task - 08.07.2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4FB665-C2DB-4ECE-8248-0E3E35FE731B}|EFManyToMany - Task - 08.07.2024.csproj|c:\\users\\lenovo\\desktop\\efmanytomany - task - 08.07.2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4FB665-C2DB-4ECE-8248-0E3E35FE731B}|EFManyToMany - Task - 08.07.2024.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4FB665-C2DB-4ECE-8248-0E3E35FE731B}|EFManyToMany - Task - 08.07.2024.csproj|c:\\users\\lenovo\\desktop\\efmanytomany - task - 08.07.2024\\configurations\\carcolorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4FB665-C2DB-4ECE-8248-0E3E35FE731B}|EFManyToMany - Task - 08.07.2024.csproj|solutionrelative:configurations\\carcolorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4FB665-C2DB-4ECE-8248-0E3E35FE731B}|EFManyToMany - Task - 08.07.2024.csproj|c:\\users\\lenovo\\desktop\\efmanytomany - task - 08.07.2024\\configurations\\brandconiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4FB665-C2DB-4ECE-8248-0E3E35FE731B}|EFManyToMany - Task - 08.07.2024.csproj|solutionrelative:configurations\\brandconiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4FB665-C2DB-4ECE-8248-0E3E35FE731B}|EFManyToMany - Task - 08.07.2024.csproj|c:\\users\\lenovo\\desktop\\efmanytomany - task - 08.07.2024\\models\\carcolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4FB665-C2DB-4ECE-8248-0E3E35FE731B}|EFManyToMany - Task - 08.07.2024.csproj|solutionrelative:models\\carcolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4FB665-C2DB-4ECE-8248-0E3E35FE731B}|EFManyToMany - Task - 08.07.2024.csproj|c:\\users\\lenovo\\desktop\\efmanytomany - task - 08.07.2024\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4FB665-C2DB-4ECE-8248-0E3E35FE731B}|EFManyToMany - Task - 08.07.2024.csproj|solutionrelative:dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4FB665-C2DB-4ECE-8248-0E3E35FE731B}|EFManyToMany - Task - 08.07.2024.csproj|c:\\users\\lenovo\\desktop\\efmanytomany - task - 08.07.2024\\models\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4FB665-C2DB-4ECE-8248-0E3E35FE731B}|EFManyToMany - Task - 08.07.2024.csproj|solutionrelative:models\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4FB665-C2DB-4ECE-8248-0E3E35FE731B}|EFManyToMany - Task - 08.07.2024.csproj|c:\\users\\lenovo\\desktop\\efmanytomany - task - 08.07.2024\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4FB665-C2DB-4ECE-8248-0E3E35FE731B}|EFManyToMany - Task - 08.07.2024.csproj|solutionrelative:models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4FB665-C2DB-4ECE-8248-0E3E35FE731B}|EFManyToMany - Task - 08.07.2024.csproj|c:\\users\\lenovo\\desktop\\efmanytomany - task - 08.07.2024\\models\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4FB665-C2DB-4ECE-8248-0E3E35FE731B}|EFManyToMany - Task - 08.07.2024.csproj|solutionrelative:models\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4FB665-C2DB-4ECE-8248-0E3E35FE731B}|EFManyToMany - Task - 08.07.2024.csproj|c:\\users\\lenovo\\desktop\\efmanytomany - task - 08.07.2024\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4FB665-C2DB-4ECE-8248-0E3E35FE731B}|EFManyToMany - Task - 08.07.2024.csproj|solutionrelative:models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4FB665-C2DB-4ECE-8248-0E3E35FE731B}|EFManyToMany - Task - 08.07.2024.csproj|c:\\users\\lenovo\\desktop\\efmanytomany - task - 08.07.2024\\configurations\\colorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4FB665-C2DB-4ECE-8248-0E3E35FE731B}|EFManyToMany - Task - 08.07.2024.csproj|solutionrelative:configurations\\colorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4FB665-C2DB-4ECE-8248-0E3E35FE731B}|EFManyToMany - Task - 08.07.2024.csproj|c:\\users\\lenovo\\desktop\\efmanytomany - task - 08.07.2024\\configurations\\carconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4FB665-C2DB-4ECE-8248-0E3E35FE731B}|EFManyToMany - Task - 08.07.2024.csproj|solutionrelative:configurations\\carconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4FB665-C2DB-4ECE-8248-0E3E35FE731B}|EFManyToMany - Task - 08.07.2024.csproj|c:\\users\\lenovo\\desktop\\efmanytomany - task - 08.07.2024\\configurations\\modelconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4FB665-C2DB-4ECE-8248-0E3E35FE731B}|EFManyToMany - Task - 08.07.2024.csproj|solutionrelative:configurations\\modelconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\EFManyToMany - Task - 08.07.2024\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\EFManyToMany - Task - 08.07.2024\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAcwHgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T14:41:14.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Model.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\EFManyToMany - Task - 08.07.2024\\Models\\Model.cs",
+              "RelativeDocumentMoniker": "Models\\Model.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\EFManyToMany - Task - 08.07.2024\\Models\\Model.cs",
+              "RelativeToolTip": "Models\\Model.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T14:45:00.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\EFManyToMany - Task - 08.07.2024\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "Models\\Car.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\EFManyToMany - Task - 08.07.2024\\Models\\Car.cs",
+              "RelativeToolTip": "Models\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T14:45:15.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarColorConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\EFManyToMany - Task - 08.07.2024\\Configurations\\CarColorConfiguration.cs",
+              "RelativeDocumentMoniker": "Configurations\\CarColorConfiguration.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\EFManyToMany - Task - 08.07.2024\\Configurations\\CarColorConfiguration.cs",
+              "RelativeToolTip": "Configurations\\CarColorConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T15:07:56.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Color.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\EFManyToMany - Task - 08.07.2024\\Models\\Color.cs",
+              "RelativeDocumentMoniker": "Models\\Color.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\EFManyToMany - Task - 08.07.2024\\Models\\Color.cs",
+              "RelativeToolTip": "Models\\Color.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T14:45:10.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CarColor.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\EFManyToMany - Task - 08.07.2024\\Models\\CarColor.cs",
+              "RelativeDocumentMoniker": "Models\\CarColor.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\EFManyToMany - Task - 08.07.2024\\Models\\CarColor.cs",
+              "RelativeToolTip": "Models\\CarColor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T14:52:01.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\EFManyToMany - Task - 08.07.2024\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\EFManyToMany - Task - 08.07.2024\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "DAL\\AppDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T14:57:18.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BrandConiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\EFManyToMany - Task - 08.07.2024\\Configurations\\BrandConiguration.cs",
+              "RelativeDocumentMoniker": "Configurations\\BrandConiguration.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\EFManyToMany - Task - 08.07.2024\\Configurations\\BrandConiguration.cs",
+              "RelativeToolTip": "Configurations\\BrandConiguration.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T15:06:21.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\EFManyToMany - Task - 08.07.2024\\Models\\Brand.cs",
+              "RelativeDocumentMoniker": "Models\\Brand.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\EFManyToMany - Task - 08.07.2024\\Models\\Brand.cs",
+              "RelativeToolTip": "Models\\Brand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T14:44:52.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ColorConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\EFManyToMany - Task - 08.07.2024\\Configurations\\ColorConfiguration.cs",
+              "RelativeDocumentMoniker": "Configurations\\ColorConfiguration.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\EFManyToMany - Task - 08.07.2024\\Configurations\\ColorConfiguration.cs",
+              "RelativeToolTip": "Configurations\\ColorConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T15:07:32.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CarConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\EFManyToMany - Task - 08.07.2024\\Configurations\\CarConfiguration.cs",
+              "RelativeDocumentMoniker": "Configurations\\CarConfiguration.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\EFManyToMany - Task - 08.07.2024\\Configurations\\CarConfiguration.cs",
+              "RelativeToolTip": "Configurations\\CarConfiguration.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAzwBkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T15:07:12.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ModelConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\EFManyToMany - Task - 08.07.2024\\Configurations\\ModelConfiguration.cs",
+              "RelativeDocumentMoniker": "Configurations\\ModelConfiguration.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\EFManyToMany - Task - 08.07.2024\\Configurations\\ModelConfiguration.cs",
+              "RelativeToolTip": "Configurations\\ModelConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T15:06:48.357Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
